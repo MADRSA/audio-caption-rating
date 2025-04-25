@@ -1,0 +1,36 @@
+{
+  "1": [
+    {
+      "text": "A dog howls in the background.",
+      "score": 5,
+      "type": "pred"
+    },
+    {
+      "text": "A dog is making noise.",
+      "score": 8,
+      "type": "gt"
+    },
+    {
+      "text": "The dog is barking.",
+      "score": 4,
+      "type": "gt"
+    }
+  ],
+  "2": [
+    {
+      "text": "A car goes by quickly.",
+      "score": 7,
+      "type": "gt"
+    },
+    {
+      "text": "A speeding engine sound is heard.",
+      "score": 8,
+      "type": "pred"
+    },
+    {
+      "text": "Noise of a vehicle passing.",
+      "score": 5,
+      "type": "gt"
+    }
+  ]
+}
